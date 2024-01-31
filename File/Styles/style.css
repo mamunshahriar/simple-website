@@ -1,0 +1,65 @@
+.banner-container {
+    max-width: auto;
+    max-height: 808px;
+    margin: 0 auto;
+    position: relative;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.banner-text {
+
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-10% -50%);
+    text-align: center right;
+}
+
+.banner-title {
+
+    color: #FFF;
+    text-align: right;
+    font-family: "Work Sans";
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-right: 200px;
+}
+
+.banner-content {
+    color: #FFF;
+    text-align: right;
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    margin-right: 200px;
+}
+
+.btn-1 {
+    width: 160px;
+    height: 65px;
+    border-radius: 10px;
+    background: #FFF;
+    border: 0px;
+    color: #005FAC;
+
+    font-family: "Work Sans";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    
+    position: absolute;
+    right: 200px;
+
+    
+}
