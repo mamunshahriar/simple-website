@@ -57,9 +57,57 @@ img {
     font-style: normal;
     font-weight: 600;
     line-height: normal;
-    
+
     position: absolute;
     right: 200px;
 
-    
+
+}
+
+.image-person {
+
+    width: 450px;
+    padding-left: 277px;
+    /* padding-top: 250px; */
+}
+
+.div-2 {
+
+
+    padding-right: 277px;
+    padding-top: 250px;
+    display: flex;
+    align-items: center;
+    gap: 90px;
+
+}
+
+.title-2 {
+
+    color: #151414;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.para-2 {
+
+    color: #444343;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.list-1 {
+
+    color: #444343;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
 }
