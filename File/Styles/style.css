@@ -1,3 +1,9 @@
+* {
+    /* padding: 0; */
+    margin: 0px;
+}
+
+
 .banner-container {
     max-width: auto;
     max-height: 808px;
@@ -60,8 +66,7 @@ img {
 
     position: absolute;
     right: 200px;
-
-
+    margin-top: 20px.watch-img
 }
 
 .image-person {
@@ -123,40 +128,41 @@ img {
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+    padding-bottom: 50px;
 }
 
 
 
-.img-1{
+.img-1 {
     margin-left: 45px;
     width: 92.958px;
-height: 92.958px;
-flex-shrink: 0;
+    height: 92.958px;
+    flex-shrink: 0;
 }
 
-.img-2{
+.img-2 {
     margin-left: 20px;
     width: 92.958px;
-height: 92.958px;
-flex-shrink: 0;
+    height: 92.958px;
+    flex-shrink: 0;
 }
 
-.img-3{
+.img-3 {
     margin-left: 15px;
     width: 92.958px;
-height: 92.958px;
-flex-shrink: 0;
+    height: 92.958px;
+    flex-shrink: 0;
 }
 
-.img-4{
+.img-4 {
     margin-left: 20px;
     width: 92.958px;
-height: 92.958px;
-flex-shrink: 0;
+    height: 92.958px;
+    flex-shrink: 0;
 
 }
 
-.plans-div{
+.plans-div {
 
     display: flex;
     padding: 0px 290px;
@@ -165,23 +171,34 @@ flex-shrink: 0;
 }
 
 
-.plans-title{
+.plans-title {
     color: #151414;
-text-align: center;
-font-family: "Work Sans";
-font-size: 30px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
+    text-align: center;
+    font-family: "Work Sans";
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
 }
 
-.plans-para{
-    color:  #737272;
-text-align: center;
-font-family: "Work Sans";
-font-size: 25px;
-font-style: normal;
-font-weight: 500;
-line-height: normal;
+.plans-para {
+    color: #737272;
+    text-align: center;
+    font-family: "Work Sans";
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
 
+}
+
+.watch-img {
+
+    width: 1140px;
+    height: 300px;
+    flex-shrink: 0;
+
+    padding-left: 400px;
+    margin-top: 20px;
+    margin-bottom: 150px;
 }
